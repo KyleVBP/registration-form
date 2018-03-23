@@ -14,3 +14,12 @@ html {
 .margint {
   margin-top: .95em;
 }
+
+@media only screen and (min-width: 60em) {
+
+  .margint {
+    margin-top: .85em;
+    padding: 0;
+  }
+
+}
